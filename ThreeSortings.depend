@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670259271 source:d:\c++\threesortings\main.cpp
+	<cstdlib>
+	<time.h>
+	<iostream>
+
